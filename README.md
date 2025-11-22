@@ -1,6 +1,10 @@
 # SD-MD-WHATSAPP-BOT
 
-
-https://raw.githubusercontent.com/Sadew-The-Scoder/SD-MD-WHATSAPP-BOT/refs/heads/main/Screenshot_20251123_015839.jpg
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="creenshot_20251123_015839.jpg">
+    <img alt="SD MD WA BOT" src="creenshot_20251123_015839.jpg">
+  </picture>
+</p>
 
 A powerful whatsapp bot for improve the experience.
