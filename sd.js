@@ -20,7 +20,7 @@ const express = require("express");
 const app = express();
 const por = require("./session");
 const port = por.PORT;
-const ownerNumber = ["94717775628"];
+const ownerNumber = ["94766680279"];
 if (!app) return;
 // Session directory
 const SESSION_DIR = "./sessions";
