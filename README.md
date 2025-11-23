@@ -7,4 +7,4 @@
   </picture>
 </p>
 
-A powerful whatsapp bot for improve the experience.
+A powerful Whatsapp bot that based on baileys.
