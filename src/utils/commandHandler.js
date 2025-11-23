@@ -93,8 +93,6 @@ function handleCommand(conn, mek, m, context) {
     isBotAdmins,
     isAdmins,
     handleFile,
-    randomMimeType,
-    mnu,
     reply,
   } = context;
 
@@ -166,8 +164,6 @@ function handleCommand(conn, mek, m, context) {
       isBotAdmins,
       isAdmins,
       handleFile,
-      randomMimeType,
-      mnu,
       reply,
     });
   } catch (err) {
